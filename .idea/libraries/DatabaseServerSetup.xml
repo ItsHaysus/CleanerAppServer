@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DatabaseServerSetup">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DatabaseServerSetup.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
